@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Federico
-
+[Github](https://img.shields.io/github/followers/MenneaDb?label=Followers&logo=Github](https://github.com/MenneaDb)
 <!--
 **MenneaDb/MenneaDb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
