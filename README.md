@@ -32,7 +32,7 @@ As my leading language, I chose to focus on Kotlin because it is an intuitive an
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][email]
-<br/>
+</br>
 
 [linkedin]: https://www.linkedin.com/in/federico-de-benedictis-686094152/
 <!--
