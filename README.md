@@ -1,5 +1,4 @@
-# My name is Federico | Junior Android Developer 👨‍💻 </br> Welcome to my Code!
-![](https://visitor-badge.laobi.icu/badge?page_id=MenneaDb.MenneaDb) [![Github](https://img.shields.io/github/followers/MenneaDb?label=Followers&logo=Github)](https://github.com/MenneaDb)
+# My name is Federico | Junior Android Developer 👨‍💻 </br> Welcome to my Code! </br> ![](https://visitor-badge.laobi.icu/badge?page_id=MenneaDb.MenneaDb) [![Github](https://img.shields.io/github/followers/MenneaDb?label=Followers&logo=Github)](https://github.com/MenneaDb)
 
 ### **About me**
 <!--
