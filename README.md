@@ -1,4 +1,4 @@
-### 👋 My name is Federico and I am a Junior Android Developer 👨‍💻
+### 👋 My name is Federico | Junior Android Developer 👨‍💻
 ![](https://visitor-badge.laobi.icu/badge?page_id=MenneaDb.MenneaDb) [![Github](https://img.shields.io/github/followers/MenneaDb?label=Followers&logo=Github)](https://github.com/MenneaDb)
 <!--
 **MenneaDb/MenneaDb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
