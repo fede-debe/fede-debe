@@ -18,7 +18,7 @@ As my leading language, I chose to focus on Kotlin because it is an intuitive an
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][email]
 <br />
 
-## My Github Stats :trophy::
+## My Github Stats :trophy:
 
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
