@@ -34,7 +34,7 @@ As my leading language, I chose to focus on Kotlin because it is an intuitive an
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][email]
 <br/>
 
-[linkedin]: 
+[linkedin]: https://www.linkedin.com/in/federico-de-benedictis-686094152/
 <!--
 **MenneaDb/MenneaDb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
