@@ -8,6 +8,7 @@ As my leading language, I chose to focus on Kotlin because it is an intuitive an
 </br>
 
 ### **Tech Stack**
+
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 <!--
 **MenneaDb/MenneaDb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
