@@ -34,7 +34,7 @@ As my leading language, I chose to focus on Kotlin because it is an intuitive an
 </div>
 <br />
 
-[linkedin]: https://www.linkedin.com/in/federico-de-benedictis/
+[linkedin]: https://www.linkedin.com/in/fdebenedictis/
 [email]: mailto:federico.debenedictis.nl@gmail.com
 <!--
 **MenneaDb/MenneaDb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
