@@ -1,6 +1,6 @@
 ![federico](./GitHubOpeningCard.jpg)
 
-# My name is Federico | Junior Android Developer 👨‍💻 </br> Welcome to my Code! </br> ![](https://visitor-badge.laobi.icu/badge?page_id=fede-debe.fede-debe) [![Github](https://img.shields.io/github/followers/fede-debe?label=Followers&logo=Github)](https://github.com/fede-debe)
+# My name is Federico | Junior Mobile Developer 👨‍💻 </br> Welcome to my Code! </br> ![](https://visitor-badge.laobi.icu/badge?page_id=fede-debe.fede-debe) [![Github](https://img.shields.io/github/followers/fede-debe?label=Followers&logo=Github)](https://github.com/fede-debe)
 
 ### **About me** ℹ️
 
