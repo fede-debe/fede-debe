@@ -1,12 +1,12 @@
 ![federico](./GitHubOpeningCard.jpg)
 
-# My name is Federico | Junior Mobile Developer 👨‍💻 </br> Welcome to my Code! </br> ![](https://visitor-badge.laobi.icu/badge?page_id=fede-debe.fede-debe) [![Github](https://img.shields.io/github/followers/fede-debe?label=Followers&logo=Github)](https://github.com/fede-debe)
+# My name is Federico :it: | Junior Mobile Developer 👨‍💻 </br> Welcome to my Code! </br> ![](https://visitor-badge.laobi.icu/badge?page_id=fede-debe.fede-debe) [![Github](https://img.shields.io/github/followers/fede-debe?label=Followers&logo=Github)](https://github.com/fede-debe)
 
-### **About me** ℹ️
+### **About me** ℹ️ 
 
 I am a Junior Mobile Developer based in Amsterdam. I came into coding to change my professional perspective and refine my attitude in looking for a creative solution in relation to a problem, without taking away the fact of being able to build up a program from scratch and being capable of giving vent to the desire to improve and constantly find new useful solutions to accomplish.  
 
-As my leading language, I chose to focus on Kotlin because it is an intuitive and clean programming language that aspires to simplify the code and its execution, something in which I completely mirror myself.
+As my leading language, I chose to focus on **_Kotlin_** because it is an intuitive and clean programming language that aspires to simplify the code and its execution, something in which I completely mirror myself.
 <br />
 
 ## **Tech Stack** 💻
