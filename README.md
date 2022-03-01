@@ -1,4 +1,5 @@
-![federico](./GitHubOpeningCard.jpg)
+
+![BackgroundGithub](https://user-images.githubusercontent.com/66374898/156165383-e01841c3-576e-4852-a96d-ac4f4a89b8f0.jpg)
 
 # My name is Federico :it: | Junior Mobile Developer 👨‍💻 </br> Welcome to my Code! </br> ![](https://visitor-badge.laobi.icu/badge?page_id=fede-debe.fede-debe) [![Github](https://img.shields.io/github/followers/fede-debe?label=Followers&logo=Github)](https://github.com/fede-debe)
 
