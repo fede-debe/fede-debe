@@ -5,7 +5,7 @@
 
 ### **About me** ℹ️ 
 
-I am a Junior Mobile Developer based in Amsterdam. I came into coding to change my professional perspective and refine my attitude in looking for a creative solution in relation to a problem, without taking away the fact of being able to build up a program from scratch and being capable of giving vent to the desire to improve and constantly find new useful solutions to accomplish.  
+I am a Mobile Developer based in Amsterdam. I came into coding to change my professional perspective and refine my attitude in looking for a creative solution in relation to a problem, without taking away the fact of being able to build up a program from scratch and being capable of giving vent to the desire to improve and constantly find new useful solutions to accomplish.  
 
 As my leading language, I chose to focus on **_Kotlin_** because it is an intuitive and clean programming language that aspires to simplify the code and its execution, something in which I completely mirror myself.
 <br />
@@ -23,19 +23,10 @@ As my leading language, I chose to focus on **_Kotlin_** because it is an intuit
 
 ## My Github Stats :trophy:
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=fede-debe&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=fede-debe&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=fede-debe&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=fede-debe&hide=php&theme=tokyonight" />
-</a>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fede-debe&layout=compact)](https://github.com/fede-debe/github-readme-stats)
 <br />
+[![fede-debe's GitHub stats](https://github-readme-stats.vercel.app/api?username=fede-debe&show_icons=true&count_private=true)](https://github.com/fede-debe/github-readme-stats)
+
 
 [linkedin]: https://www.linkedin.com/in/fdebenedictis/
 [email]: mailto:federico.debenedictis.nl@gmail.com
