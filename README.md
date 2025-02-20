@@ -8,11 +8,17 @@
 I’m a passionate Android Developer with almost four years of experience, specializing in building and maintaining scalable mobile applications. My expertise lies in modern Android development, working extensively with Kotlin, Jetpack Compose, and Flow to create robust, efficient, and maintainable apps.
 
 My skills include:
+
 ✔ Migrating legacy Java code to Kotlin for better performance and maintainability.
+
 ✔ Refactoring UI from XML to Jetpack Compose, following the latest Android best practices.
+
 ✔ Transitioning from LiveData to Flow & UI State for improved state management.
+
 ✔ Handling complex build variants, enabling clients to fully customize apps with unique branding, themes, and configurations.
+
 ✔ Publishing and managing app releases on the Google Play Store.
+
 ✔ Integrating third-party libraries and APIs
 
 I thrive on solving complex problems, optimizing code, and continuously improving app architecture. My development approach is deeply rooted in MVVM, dependency injection, and clean architecture, ensuring code maintainability and scalability.
