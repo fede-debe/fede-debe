@@ -5,9 +5,21 @@
 
 ### **About me** ℹ️ 
 
-I am a Mobile Developer based in Amsterdam. I came into coding to change my professional perspective and refine my attitude in looking for a creative solution to a problem, without taking away the fact of being able to build up a program from scratch and being capable of giving vent to the desire to improve and constantly find new useful solutions to accomplish.  
+I’m a passionate Android Developer with almost four years of experience, specializing in building and maintaining scalable mobile applications. My expertise lies in modern Android development, working extensively with Kotlin, Jetpack Compose, and Flow to create robust, efficient, and maintainable apps.
 
-As my leading language, I chose to focus on **_Kotlin_** because it is an intuitive and clean programming language that aspires to simplify the code and its execution, something in which I completely mirror myself.
+My skills include:
+✔ Migrating legacy Java code to Kotlin for better performance and maintainability.
+✔ Refactoring UI from XML to Jetpack Compose, following the latest Android best practices.
+✔ Transitioning from LiveData to Flow & UI State for improved state management.
+✔ Handling complex build variants, enabling clients to fully customize apps with unique branding, themes, and configurations.
+✔ Publishing and managing app releases on the Google Play Store.
+✔ Integrating third-party libraries and APIs
+
+I thrive on solving complex problems, optimizing code, and continuously improving app architecture. My development approach is deeply rooted in MVVM, dependency injection, and clean architecture, ensuring code maintainability and scalability.
+
+I’m always eager to learn, explore new technologies, and refine my craft to stay ahead in the ever-evolving Android ecosystem.
+
+📌 Tech Stack & Skills: Kotlin | Jetpack Compose | Flow | Coroutines | Hilt | Retrofit | Room | MVVM | Clean Architecture
 <br />
 
 ## **Tech Stack** 💻
